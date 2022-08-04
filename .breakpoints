@@ -1,0 +1,20 @@
+{
+  "files": {
+    "creaturas.csv": [
+      {
+        "id": "7792ceef-cca1-47e7-ba4b-c72f87c02670",
+        "line": 1,
+        "version": 119,
+        "index": 0
+      }
+    ],
+    "monstruos.py": [
+      {
+        "id": "5fd97324-602f-45b2-b947-033e72275759",
+        "line": 15,
+        "version": 9042,
+        "index": 636
+      }
+    ]
+  }
+}
